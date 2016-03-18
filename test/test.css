@@ -1,0 +1,12 @@
+body {
+    background-color: #000;
+}
+
+.class {
+    color: #fff;
+}
+
+body:hover,
+.class:hover div {
+    color: #111;
+}
