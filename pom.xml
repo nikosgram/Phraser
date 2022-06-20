@@ -24,7 +24,7 @@
     </developers>
 
     <properties>
-        <kotlin.version>1.0.1</kotlin.version>
+        <kotlin.version>1.6.0</kotlin.version>
         <javac.version>1.7</javac.version>
     </properties>
 
